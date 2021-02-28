@@ -204,13 +204,13 @@ body{
     .attribution { font-size: 11px; text-align: center; }
   .attribution a { color: hsl(228, 45%, 44%); }
   .attribution { 
-    position:relative;
+    position:absolute;
     bottom: 0;
     left:0;
     width:100%;
     transform: translateY(100%);
     transition: .4s;
-    padding: 20px;
+    padding: 10px;
     background-color: white;
     text-align: center;
   }
